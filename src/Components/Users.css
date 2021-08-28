@@ -1,0 +1,18 @@
+.Box{
+    display:table-row;
+    text-align: left;
+    border: 3px solid black;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px;
+    margin:50px 50px;
+    
+}
+
+.App {
+    display : block;
+    margin: 50px auto 50px auto;
+    width: 400px;
+    height: 400px;
+    
+}
+
